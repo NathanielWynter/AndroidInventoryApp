@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">+1UP</string>
+    <string name="addButton">+</string>
+    <string name="add_1up_to_inventory">Add 1UP To Inventory</string>
+    <string name="nameEntered">Name</string>
+    <string name="numberEntered">Number</string>
+    <string name="quantityEntered">Quantity</string>
+    <string name="priceEntered">Price</string>
+    <string name="dateEntered">Date</string>
+
+
+    <string name="itemPrice">Price</string>
+    <string name="itemName">Name</string>
+    <string name="itemDate">Date</string>
+    <string name="itemQuantity">Quantity</string>
+    <string name="itemNumber">Number</string>
+    <string name="inventory_management_system">Inventory Management System</string>
+    <string name="inventory_list">Inventory List</string>
+
+    <string name="one_up">one_up</string>
+    <string name="openbox">openBox</string>
+
+
+</resources>
